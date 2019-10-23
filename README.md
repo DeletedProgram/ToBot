@@ -1,3 +1,3 @@
 # ToBot
 
-**~Getting Started~**
+# **Getting Started**
